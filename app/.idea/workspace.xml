@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ad9ba17-95f6-4be8-a19e-4cf2f4c867d0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/res/drawable/draw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m10_timer_life_cycle/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m10_timer_life_cycle/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m10_timer_life_cycle/app/src/main/java/com/example/m3_components/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m10_timer_life_cycle/app/src/main/java/com/example/m3_components/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m11_timer_data_storage/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m11_timer_data_storage/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m11_timer_data_storage/app/src/main/java/com/example/m11_timer_data_storage/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m11_timer_data_storage/app/src/main/java/com/example/m11_timer_data_storage/Repository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m11_timer_data_storage/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m11_timer_data_storage/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1_hello_world/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1_hello_world/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1_hello_world/MyFirstApplication/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1_hello_world/MyFirstApplication/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1_hello_world/MyFirstApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1_hello_world/MyFirstApplication/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m1_hello_world/MyFirstApplication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m1_hello_world/MyFirstApplication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m2_layout/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m2_layout/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m2_layout/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m2_layout/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m2_layout/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m2_layout/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m2_layout/app/src/main/java/com/example/m2_layout/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m2_layout/app/src/main/java/com/example/m2_layout/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m3_components/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m3_components/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m3_components/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m3_components/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m3_components/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m3_components/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m3_components/app/src/main/res/layout/widget_custom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m3_components/app/src/main/res/layout/widget_custom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m4_constraint/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m4_constraint/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m4_constraint/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m4_constraint/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m4_constraint/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m4_constraint/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/.idea/shelf/Uncommitted_changes_before_Update_at_24_01_2023_22_12_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/.idea/shelf/Uncommitted_changes_before_Update_at_24_01_2023_22_12_[Changes]/welcome_picture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/.idea/shelf/Uncommitted_changes_before_Update_at_24_01_2023_22_12__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/java/com/example/m5_quiz_resources/Screensaver.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/java/com/example/m5_quiz_resources/Screensaver.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/res/layout/activity_screensaver.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/res/layout/activity_screensaver.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m5_quiz_resources/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m7_quiz_fragments/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m7_quiz_fragments/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m7_quiz_fragments/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m7_quiz_fragments/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m7_quiz_fragments/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m7_quiz_fragments/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m8_quiz_animation/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m8_quiz_animation/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m8_quiz_animation/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m8_quiz_animation/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m8_quiz_animation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m8_quiz_animation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m8_quiz_animation/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../m8_quiz_animation/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m8_quiz_animation/app/src/main/java/com/example/m8_quiz_animation/FirstFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m8_quiz_animation/app/src/main/java/com/example/m8_quiz_animation/FirstFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m8_quiz_animation/app/src/main/java/com/example/m8_quiz_animation/SecondFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m8_quiz_animation/app/src/main/java/com/example/m8_quiz_animation/SecondFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m8_quiz_animation/app/src/main/java/com/example/m8_quiz_animation/ThirdFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m8_quiz_animation/app/src/main/java/com/example/m8_quiz_animation/ThirdFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m9_quiz_localization/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m9_quiz_localization/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m9_quiz_localization/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m9_quiz_localization/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m9_quiz_localization/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../m9_quiz_localization/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m9_quiz_localization/app/src/main/java/com/example/m8_quiz_animation/FirstFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m9_quiz_localization/app/src/main/java/com/example/m8_quiz_animation/FirstFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m9_quiz_localization/app/src/main/java/com/example/m8_quiz_animation/SecondFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m9_quiz_localization/app/src/main/java/com/example/m8_quiz_animation/SecondFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../m9_quiz_localization/app/src/main/java/com/example/m8_quiz_animation/ThirdFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../m9_quiz_localization/app/src/main/java/com/example/m8_quiz_animation/ThirdFragment.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ozUvhypGqGkfvm2mCeyaCKlUCw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/FAN17/AndroidStudioProjects/android_dev_1_2022/m16_architecture"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ad9ba17-95f6-4be8-a19e-4cf2f4c867d0" name="Changes" comment="" />
+      <created>1731872130511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731872130511</updated>
+    </task>
+    <servers />
+  </component>
+</project>
